@@ -1,0 +1,1 @@
+# Microsoft-Sentinel-MITRE-ATT-CK-Purple-Team-Detection-Pipeline

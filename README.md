@@ -5,7 +5,7 @@ Purple team detection engineering project using Atomic Red Team, Sysmon and Micr
 ## Architecture
 
 <p align="center">
-  <img src="docs/architecture.png" alt="Microsoft Sentinel MITRE ATT&CK Purple Team Detection Pipeline Architecture" width="700">
+  <img src="./architecture.png" alt="Microsoft Sentinel MITRE ATT&CK Purple Team Detection Pipeline Architecture" width="800">
 </p>
 
 ## Detection Workflow
